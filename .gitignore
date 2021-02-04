@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/MBTilesPersistentCache/.vs/MBTilesPersistentCache
+/MBTilesPersistentCache/bin/Debug/netcoreapp3.1
+/MBTilesPersistentCache/obj
